@@ -1,0 +1,1 @@
+# SpiceHut-TryHackMe-Writeup
