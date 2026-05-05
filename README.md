@@ -6,7 +6,7 @@
 |---|---|
 | **Target IP** | 10.113.138.124 |
 | **Platform** | TryHackMe |
-| **Difficulty** | Easy / Medium |
+| **Difficulty** | Easy 
 | **Objective** | Gain root access and retrieve all flags |
 
 ---
