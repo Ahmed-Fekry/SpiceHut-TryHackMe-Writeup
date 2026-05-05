@@ -2,7 +2,7 @@
 
 ## Overview
 - Target: 10.113.138.124
-- Difficulty: Easy/Medium
+- Difficulty: Easy
 - Objective: Gain root access
 
 ---
